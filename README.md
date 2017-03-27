@@ -1,4 +1,4 @@
-#Introduction
+### Introduction
 
 This a experiment project. I want to separate the server and client to build a simple server.
 
@@ -37,9 +37,10 @@ And if you want to debug the server ,just run
 ```
 node-debug ./build/backend.js
 ```
-***But now the port will unavailable,it said EADDRINUSE. ***
-***Maybe the HMR and the node-debug using the same port ,it can not run in same time ***
-***I will try later , or who has the idea?***
+***But now the port will unavailable,it said EADDRINUSE.
+Maybe the HMR and the node-debug using the same port ,
+it can not run in same time 
+I will try later , or any other solution?***
 
 For a tempory solution ,you can run 
 ```
