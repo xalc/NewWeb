@@ -15,7 +15,9 @@
   "keywords": [
     "node",
     "express",
-    "webpack"
+    "webpack",
+    "react",
+    "seperated server and client"
   ],
   "author": "chao1990li@gmail.com",
   "license": "MIT",
